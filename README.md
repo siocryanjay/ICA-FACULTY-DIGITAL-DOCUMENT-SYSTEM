@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+### Members
+- Jomilen Dela Torre
+- Jim Christian Edullantes
+- Julius Kenn Balendres
+- Ervin Johnes Butlay
+- Ryan Jay Sioc
+
 ### ICA FACULTY DIGITAL DOCUMENT SYSTEM
 A Digital Document System is a web-base management system that is used to manage, store, track and delete digital documents or digital image in the website that can make the client work anywhere, whenever there is an internet connection. The Digital Document System will help by making the client’s Documents or image Paperless, by just scanning the client’s information, such as certificates, Designations, client’s information, etc. then, upload it to the website. Aside from uploading the digital files, the clients can also retrieve their digital documents, by downloading the file. A Digital Document System is well known for the paperless and security, when it comes to submit your digital files, aside from that. The client’s information is also secure, as it is uploaded in a secure database. 
 
