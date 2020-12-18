@@ -19,7 +19,7 @@ File documentation including diagrams and user manual can be seen in the documen
 ### Read this first!
 To use the application:
 
-Create a database with the name "digidoc" Open terminal
+Create a database with the name "digidoc" Open terminal and input artisan commands:
 
 - php artisan migrate --seed
 - php artisan storage:link
